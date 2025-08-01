@@ -1,5 +1,5 @@
 import { Container} from "react-bootstrap";
-import Menubar from "../navigation/Menubar";
+import Menubar from "./Menubar";
 
 const Home = ()=>{
     return (
