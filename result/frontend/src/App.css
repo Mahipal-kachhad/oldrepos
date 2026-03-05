@@ -1,0 +1,12 @@
+:root{
+  --font : black;
+}
+
+a{
+  text-decoration: none;
+}
+
+.active{
+  color: rgb(0, 0, 0) !important;
+  background-color: aqua;
+}
